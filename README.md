@@ -27,4 +27,5 @@ Testi
 </ul>
 
 <img src="https://ylitornio.fi/wp-content/uploads/2017/03/frisbeegolf.jpg">
-<h1 style="background-color:DodgerBlue;">moro</h1>
+<h1 style="color:Tomato;">moro</h1>
+<p style="color:DodgerBlue;">Markku</p>
