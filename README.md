@@ -25,3 +25,5 @@ Testi
   </li>
   <li>Teuvo</li>
 </ul>
+
+<img src="https://ylitornio.fi/wp-content/uploads/2017/03/frisbeegolf.jpg">
